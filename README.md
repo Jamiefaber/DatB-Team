@@ -9,3 +9,4 @@ ble consortium.
 Name: Maria Deetman en Nikki Trebels
 Date of creation: 15 March 2024
 
+Hoe oud zijn wij: 28 en 24 jaar
