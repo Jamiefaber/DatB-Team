@@ -9,5 +9,3 @@ ble consortium.
 Name: Maria Deetman
 Date of creation: 15 March 2024
 
-
-hoi wij zijn klaar, nu zijn jullie aan de beurt
