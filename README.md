@@ -6,6 +6,6 @@
 Purpose: The goal of my-reproducible-manuscript is to learn to make a reproduci-
 ble consortium. 
 
-Name: Maria Deetman
+Name: Maria Deetman en Nikki Trebels
 Date of creation: 15 March 2024
 
